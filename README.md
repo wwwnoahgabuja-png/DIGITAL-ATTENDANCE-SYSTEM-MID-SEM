@@ -4,8 +4,8 @@
 Course Code: EEE227  
 Programme: HND Electrical Engineering Level 200  
 Assessment: Mid-Semester Capstone Project  
-Student: NGBIKOO KWASI BENJAMIN 
-Index Number: 01242938D
+Student: Gabuja Noah 
+Index Number: 01241752d
  
 
 
@@ -143,4 +143,5 @@ On other systems:
 ## Conclusion
 
 The Digital Attendance System successfully demonstrates the use of C++ to solve a real-world attendance management problem.  
+
 The system ensures accurate record keeping, structured reporting, and reliable file storage.
